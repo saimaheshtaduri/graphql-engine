@@ -119,6 +119,8 @@ The README of the CLI repository can be found [here](https://github.com/hasura/g
 
 - Please include logs of the server, if relevant.
 
+- You can raise an issue [here](https://github.com/hasura/graphql-engine/issues/new/choose)
+
 ### Working on an issue
 
 - We use the [fork-and-branch git workflow](https://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/).
